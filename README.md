@@ -47,4 +47,4 @@ donde \(\alpha=0.1\) se fija por la topología de la compactificación:
 
 **Simular predicciones para FCC:**
 
-
+s
